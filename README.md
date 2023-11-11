@@ -20,8 +20,8 @@ The contact page is where you can find ways to reach out to me. Feel free to get
 
 I'm excited to connect with you! Reach out to me through the following channels:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: # My Portfolio
+- **Email**: harishrajd6@gmail.com
+- **LinkedIn**: linkedin.com/in/harishraj-d/
 
 Welcome to the repository for my personal portfolio website! This simple yet effective project consists of two pages – the home page and the contact page – designed to showcase my skills and provide an easy way to get in touch.
 
@@ -43,8 +43,8 @@ The contact page is where you can find ways to reach out to me. Feel free to get
 
 I'm excited to connect with you! Reach out to me through the following channels:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: # My Portfolio
+- **Email**: harishrajd6@gmail.com
+- **LinkedIn**: linkedin.com/in/harishraj-d/
 
 Welcome to the repository for my personal portfolio website! This simple yet effective project consists of two pages – the home page and the contact page – designed to showcase my skills and provide an easy way to get in touch.
 
@@ -66,7 +66,7 @@ The contact page is where you can find ways to reach out to me. Feel free to get
 
 I'm excited to connect with you! Reach out to me through the following channels:
 
-- **Email**: your.email@example.com
+- **Email**: harishrajd6@gmail.com
 - **LinkedIn**: linkedin.com/in/harishraj-d/
 - **Twitter**: [Your Twitter Handle](link-to-twitter)
 
